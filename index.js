@@ -10,8 +10,3 @@ function toggleNav() {
     console.log(navWidth);
   }
 
-
-function validate(){
-
-}
-  
