@@ -1,3 +1,1 @@
-#real-estate
-
-Real Estate website for Sheraton Group.
+Site is live at https://soudeepz.github.io/sheraton-group-site/
